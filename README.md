@@ -12,6 +12,7 @@ A console-based typing tutor project built in Assembly language, designed to hel
 - **Irvine32 Library**: Provides essential functions for input/output operations and system interactions
 - **MASM (Microsoft Macro Assembler)**: Used for assembling and linking the program, leveraging its robust support for x86 architecture.
 - **x86 Interrupts**: Directly manages console manipulation, timing, and input/output operations for smooth performance.
+- **Visual Studio 2022**: The primary Integrated Development Environment (IDE) used for coding, debugging, and compiling the assembly language code.
 
 ## How It Works
 1. **Falling Words**: Words appear at random positions and move down the screen.
@@ -20,5 +21,9 @@ A console-based typing tutor project built in Assembly language, designed to hel
 4. **Missed Words**: If words are not typed in time, they are counted as misses.
 5. **Word Priority**: Targets the word based on the user's first character input first, as well as their row positions (bottom-most word goes first).
 
+## Note
+- **You will need to setup Irvine32 Library to run the program.** [Irvine Library Getting Started](https://www.asmirvine.com/gettingStartedVS2015/index.htm)
+- **Areas to Improve**: Better measurement for Accuracy and WPM, Better Commenting System, Randomized Words
+
 ## Demo Video
-Pending
+[Short Demo on YouTube](https://youtu.be/VCmpx40ln3w)
