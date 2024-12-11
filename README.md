@@ -26,4 +26,4 @@ A console-based typing tutor project built in Assembly language, designed to hel
 - **Areas to Improve**: Better measurement for Accuracy and WPM, Better Commenting System, Randomized Words
 
 ## Demo Video
-![Demo Video](https://github.com/potatoshines/Typing-Tutor-Assembly-Project/blob/main/demo.mp4)
+[Demo Video on YouTube](https://youtu.be/VCmpx40ln3w)
